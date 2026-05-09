@@ -2,7 +2,7 @@
 
 ## Introducción ##
 
-Hola! Mi nombre es **Rafael Tropeano**, tengo 22 años y soy estudiante de Ingenieria en Sistemas (Como todos por aca).  
+Hola! Mi nombre es **Rafael Tropeano** (Legajo 214.196-6), tengo 22 años y soy estudiante de Ingenieria en Sistemas (Como todos por aca).  
 Además de ser estudiante, trabajo hace ya 3 años como **Docente** en la escuela donde hice mi secundaria. Ahora mismo estoy dando clases como profesor de 4to año en la modalidad Informática, en la materia *Sistemas Operativos*, y sumado a eso doy clases (aunque menos) en la primaria.
 
 ***
