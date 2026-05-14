@@ -1,5 +1,7 @@
 # TP0 Presentación Rafael Tropeano #
 
+![EstaEsUnaFoto][img1]
+
 ## Introducción ##
 
 Hola! Mi nombre es **Rafael Tropeano** (Legajo 214.196-6), tengo 22 años y soy estudiante de Ingenieria en Sistemas (Como todos por aca).  
@@ -31,8 +33,6 @@ Considero importante apreciar la vida y los momentos efímeros que tenemos. Algo
 No dejo el significado para que puedan buscarlo si les interesa!
 
 Hasta aca llego con la presentación, espero te haya gustado!
-
-![EstaEsUnaFoto][img1]
 
 [img1]: Imagen_TP0.jpg
 ***
